@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(90deg, rgb(255, 72, 0) 0%, rgb(87, 0, 58) 100%);
+}
+
+div{
+    border-bottom: 1px solid;
+    border-radius: 20px;
+    margin: 3;
+
+}
